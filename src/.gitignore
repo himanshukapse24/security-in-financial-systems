@@ -1,0 +1,19 @@
+# Target directory (Compiled Java classes)
+target/
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Large Financial Datasets (Security & Size restriction) (Not committed to Gitlab)
+*.csv
+*.zip
+dcu-practicum-data/
+
+# Logs
+*.log
